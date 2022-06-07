@@ -55,7 +55,7 @@
             document.getElementById("openNav").style.display = "inline-block";
         }
     </script>
-    <title>Template | MyTutor</title>
+    <title>Tutor Details | MyTutor</title>
 </head>
 <body style="background: #E9FFFF">
     <!-- Sidebar Menu -->
