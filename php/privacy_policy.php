@@ -22,7 +22,7 @@
             document.getElementById("openNav").style.display = "inline-block";
         }
     </script>
-    <title>Template | MyTutor</title>
+    <title>Privacy Policy | MyTutor</title>
 </head>
 <body style="background: #E9FFFF">
         <div>
